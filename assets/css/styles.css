@@ -305,11 +305,10 @@ img{
 }
 
 .home__title{
-    font-size: var(--big-font-size);
+    font-size: var(--h1-font-size);
 }
 
-.home__name{
-    font-size: var(--big-font-size);
+.wahid{
     color: var(--first-color);
 }
 
